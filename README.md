@@ -43,9 +43,9 @@ This will install "fetch" as a CLI tool accessible from anywhere.
 ## Dependencies
 
 - Python 3.8+
-- [Pillow] (https://pillow.readthedocs.io/) – for image processing
-- [Colorama] (https://pypi.org/project/colorama/) – for terminal coloring
-- [psutil] (https://pypi.org/project/psutil/) – for system information
+- [Pillow](https://pillow.readthedocs.io/) – for image processing
+- [Colorama](https://pypi.org/project/colorama/) – for terminal coloring
+- [psutil](https://pypi.org/project/psutil/) – for system information
 
 All dependencies are included in "requirements.txt" and installed automatically via "pip".
 
