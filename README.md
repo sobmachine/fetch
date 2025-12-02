@@ -53,8 +53,8 @@ All dependencies are included in "requirements.txt" and installed automatically 
 
 ## Usage
 
-# Basic usage with an image path
 ```bash
+# Basic usage with an image path
 fetch path/to/image.png
 
 
