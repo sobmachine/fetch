@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fetch"
+version = "0.1.0"
+description = "A simple fetch program that can render small images as logo."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name="bloom", email="harshitbery10012012@gmail.com" }
+]
+license = { text="GPL-3.0-or-later" }
+dependencies = [
+    "Pillow>=10.0.0",
+    "colorama>=0.4.6",
+    "psutil>=5.9.6"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Operating System :: OS Independent"
+]
+
+[project.scripts]
+fetch = "fetch.main:main"
