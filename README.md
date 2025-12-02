@@ -8,10 +8,10 @@ This project is designed to run on Linux, Android (Termux), and other Unix-like 
 
 ## Features
 
-- Image-to-ASCII Conversion
+- Image-to-ASCII Conversion: 
 Converts your wallpapers or images into colorful ASCII art in the terminal, preserving approximate colors from the original image.
 - System Information
-Displays key system details like:
+Displays key system details like: 
    - Operating System & Version
    - Kernel Version
    - Device Model / Machine Architecture
@@ -20,9 +20,9 @@ Displays key system details like:
    - Disk Usage
    - Uptime (if available)
    - Python Version
-- Dynamic Coloring
+- Dynamic Coloring: 
 Each ASCII character’s color is derived from the original image, ensuring a vibrant, faithful representation.
-- CLI Friendly
+- CLI Friendly: 
 Works directly from the terminal. Simply provide an image path as an argument, or pipe in a path via stdin.
 
 ---
