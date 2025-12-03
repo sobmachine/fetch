@@ -1,10 +1,10 @@
-# Fetch
+# fetch
 
 ![Stars](https://img.shields.io/github/stars/sobmachine/fetch?style=flat&color=C9A7FF&logo=github)
 ![License](https://img.shields.io/github/license/sobmachine/fetch?style=flat&color=BF8BFF&logo=gnu)
 ![Python](https://img.shields.io/badge/Python-3.12-BA9CFF?style=flat&logo=python&logoColor=white) 
 
-*Fetch* is a *lightweight, terminal-based system info and image ASCII art display tool*, inspired by Neofetch. It converts any image into colored ASCII art while showing detailed system information in a visually appealing way.
+*fetch* is a *lightweight, terminal-based system info and image ASCII art display tool*, inspired by Neofetch. It converts any image into colored ASCII art while showing detailed system information in a visually appealing way.
 
 This project is designed to run on Linux, Android (Termux), and other Unix-like environments.
 
@@ -82,9 +82,9 @@ Output Example
 
 Development & Contribution
 
-- Source Code: Located in "src/fetch/main.py".
-- Packaging: Uses "pyproject.toml" for pip installation.
-- Standalone Executable: Can be compiled with "Nuitka" (https://nuitka.net/) for fully self-contained binaries.
+- Source Code: Located in [src/fetch/main.py](src/fetch/main.py).
+- Packaging: Uses [pyproject.toml](pyproject.toml) for pip installation.
+- Standalone Executable: Can be compiled with [Nuitka](https://nuitka.net/) for fully self-contained binaries.
 
 Contributions are welcome! Feel free to submit pull requests or open issues with feature requests or bug reports.
 
