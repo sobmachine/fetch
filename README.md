@@ -1,9 +1,11 @@
 # Fetch
 
 ![Stars](https://img.shields.io/github/stars/sobmachine/fetch?style=flat&color=C9A7FF&logo=github)
-![Forks](https://img.shields.io/github/forks/sobmachine/fetch?style=flat&color=D5B9FF&logo=github)
-![Issues](https://img.shields.io/github/issues/sobmachine/fetch?style=flat&color=E3CEFF&logo=github)
 ![License](https://img.shields.io/github/license/sobmachine/fetch?style=flat&color=BF8BFF&logo=gnu)
+![Python](https://img.shields.io/badge/Python-3.12-BA9CFF?style=flat&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-lavender?logo=windows&logoColor=white&color=B57EDC)
+![Linux](https://img.shields.io/badge/Linux-lavender?logo=linux&logoColor=black&color=B57EDC)
+![macOS](https://img.shields.io/badge/macOS-lavender?logo=apple&logoColor=white&color=B57EDC) 
 
 *Fetch* is a *lightweight, terminal-based system info and image ASCII art display tool*, inspired by Neofetch. It converts any image into colored ASCII art while showing detailed system information in a visually appealing way.
 
