@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/sobmachine/fetch?style=flat&color=C9A7FF&logo=github)
 ![License](https://img.shields.io/github/license/sobmachine/fetch?style=flat&color=BF8BFF&logo=gnu)
 ![Python](https://img.shields.io/badge/Python-3.12-BA9CFF?style=flat&logo=python&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-lavender?logo=windows&logoColor=white&color=B57EDC)
+![Windows](https://img.shields.io/badge/Windows-lavender?logo=windows-10&logoColor=white&color=B57EDC)
 ![Linux](https://img.shields.io/badge/Linux-lavender?logo=linux&logoColor=black&color=B57EDC)
 ![macOS](https://img.shields.io/badge/macOS-lavender?logo=apple&logoColor=white&color=B57EDC) 
 
